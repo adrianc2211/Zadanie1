@@ -6,7 +6,7 @@ namespace Zadanie1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BaseDevice.PowerON();
         }
     }
 }
